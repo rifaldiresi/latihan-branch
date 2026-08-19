@@ -1,3 +1,3 @@
-Ini adalah latihan untuk membuat branch baru di Github
+# Ini adalah latihan untuk membuat branch baru di Github
 
 Halo, ini project belajar GitHub.
