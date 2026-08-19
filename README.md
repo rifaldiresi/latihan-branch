@@ -1,3 +1,3 @@
 # latihan-branch
 
-Halo, ini project saya
+Belajar GitHub di Dicoding itu seru!
