@@ -1,4 +1,7 @@
 # latihan-branch
 
 Belajar GitHub di Dicoding itu seru!
-*Apalagi belajar di Dicoding Academy !!!.
+
+*Belajar GitHub di Dicoding Academy*<br>
+Semangat belajar
+
